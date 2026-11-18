@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
