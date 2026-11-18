@@ -48,7 +48,7 @@ def executar_acao(comando):
             pyautogui.press("f15")
 
         elif comando == "4":
-            print("Botão 4: f15")
+            print("Botão 4: f16")
             pyautogui.press("f16")
 
         elif comando == "5":
